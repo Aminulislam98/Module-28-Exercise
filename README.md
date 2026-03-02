@@ -1,3 +1,8 @@
+<!--
+  This file is not required.
+  Please check the Module 28 exercise folder for the actual implementation.
+-->
+
 # 📘 Module 28 – Internet, API, Fetch Practice Guide
 
 ---
